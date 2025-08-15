@@ -2,10 +2,10 @@
 A simple, animated Happy Birthday web page with a cute cake, candle flames, and a light/dark mode toggle.
 
 **Features**
- - Animated cake & candle flames 🎂
+ - Animated cake & candle flames 
  - Light/Dark theme toggle 
  - Fully responsive design for desktop & mobile
- - Works offline, just open the HTML file in your browser
+ - Works offline, open the HTML file in your browser
 
 **How to Use**
  - Clone or download the repository
